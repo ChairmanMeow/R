@@ -101,7 +101,7 @@ BTC_USD: "105.5641218",
 
 <h2>Submitting</h2>
 
-<p>Email your program, as well as a sample run where it makes a profit, to <a href="mailto:omar+jobs-arb@priceonomics.com">omar+jobs-arb@priceonomics.com</a>. </p>
+<p>Email your program, as well as a sample run where it makes a profit, to <a href="mailto:wong.victory@gmail.com">wong.victory.gmail.com</a>. </p>
 
 <p>In addition, please share a little about your background and interests, the position you're interested in, and what excites you about Priceonomics in your message.</p>
 
